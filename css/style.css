@@ -1,0 +1,47 @@
+.catpizza{
+  width: 100%;
+}
+.middle{
+  width: 80%;
+  height: 50%;
+}
+.miniheader{
+  background-color: #C5C6C7;
+  width = 10%;
+  text-decoration-color: #66FCF1
+}
+.fakefooter{
+
+}
+
+h1{
+  color: #45A29E;
+  align-self: middle;
+}
+h2{
+  color :  #0B0C10;
+}
+h3{
+  color :  white;
+  outline: 3px dashed black;
+  text-align: left;
+  text-shadow:
+		-2px -2px 0 #000,
+		2px -2px 0 #000,
+		-2px 2px 0 #000,
+		2px 2px 0 #000;
+
+
+}
+body {
+  background-image:"images/confe.gif";
+  font-family: fantasy;
+}
+
+
+table, th,tr{/*outter boxes */
+  border:3px solid #d3d3d3;
+  border-collapse: collapse;
+  text-align: center;
+  align-self: center;
+}
